@@ -1,13 +1,7 @@
-## Note
- => มีความหมายว่า
+### Behave
+=> ประพฤติ
 
- = Synonym
-
----
-### Particular
-=> โดยเฉพาะ
-
-= specific, individual
+= act, docduct, perform
 
 ---
 ### Enhance
@@ -16,21 +10,21 @@
 = (V.)increase, upgrade, raise, reinforce
 
 ---
-### Virtue
-=> คุณธรรม
-
-= goodness, moral, merit
-
----
-### Behave
-=> ประพฤติ
-
-= act, docduct, perform
-
----
 ### Notice
 => (N.) แจ้งให้ทราบ, ประกาศ : (V.) ข้อสังเกต, สังเกตเห็น
 
 = (N.) announcement, notification : (V.) remark, note
+
+---
+### Particular
+=> โดยเฉพาะ
+
+= specific, individual
+
+---
+### Virtue
+=> คุณธรรม
+
+= goodness, moral, merit
 
 ---

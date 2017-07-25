@@ -1,7 +1,7 @@
 ### Behave
-=> ประพฤติ
+=> (V.) ประพฤติ
 
-= act, docduct, perform
+= (V.) act, conduct, perform
 
 ---
 ### Enhance
@@ -17,14 +17,18 @@
 
 ---
 ### Particular
-=> โดยเฉพาะ
+=> (Adj.) โดยเฉพาะ, เจาะจง, เฉพาะกิจ : (N.) รายการ, รายละเอียด
 
-= specific, individual
+= (Adj.) specific, individual : (N.)  detail, item, element
 
 ---
 ### Virtue
-=> คุณธรรม
+=> (N.) คุณธรรม
 
-= goodness, moral, merit
+= (N.) goodness, moral, merit
+
+---
+### Unless
+=> (Conjunction) เว้นแต่
 
 ---
